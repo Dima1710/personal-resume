@@ -21,7 +21,7 @@ role: Pianist & Aspiring IT and Cybersecurity Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:
+  - name: Entrepeneur
     url: ''
 
 # Social network links
@@ -30,7 +30,7 @@ profiles:
     url: 'mailto:dh.reijs@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/Dima1710
+    url: https://github.com/dmitryreijs
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dmitry-reijs/
 
@@ -70,7 +70,7 @@ work:
 skills:
   - name: Technical
     items:
-      - name: Linux Systems Administration
+      - name: Linux Administration
         description: Proficient in managing Ubuntu servers and troubleshooting system issues.
         percent: 80
         icon: devicon/linux
@@ -84,7 +84,7 @@ skills:
         icon: devicon/google
   - name: Development
     items:
-      - name: AI Workflow Automation
+      - name: AI Automation
         description: Built workflows and chatbots using platforms such as Voiceflow, Botpress, and Make.com.
         percent: 70
         icon: devicon/tensorflow
@@ -96,17 +96,17 @@ skills:
         description: Developed automation workflows using Python and integration tools.
         percent: 65
         icon: devicon/python
-  - name: Customer Support & Problem Solving
+  - name: Support
     items:
       - name: Support
         description: Delivered troubleshooting and problem-solving for server and cloud issues.
         percent: 85
         icon: devicon/bash
-      - name: Email Marketing & Outreach
+      - name: Email Marketing
         description: Executed cold outreach campaigns and developed client acquisition strategies.
         percent: 75
-        icon: hero/mail
-      - name: Troubleshooting & Problem Solving
+        icon: hero/inbox
+      - name: Troubleshooting
         description: Diagnosed and resolved technical issues across diverse IT environments.
         percent: 85
         icon: hero/wrench
@@ -115,7 +115,7 @@ skills:
       - name: Piano Performance
         description: Over 10 years of experience, including private lessons and public performances.
         percent: 90
-        icon: hero/music-note
+        icon: hero/musical-note
       - name: Music Theory & Analysis
         description: Advanced understanding of theoretical and analytical music concepts.
         percent: 85
@@ -132,19 +132,19 @@ skills:
       - name: English
         description: Fluent
         percent: 95
-        icon: flag-gb
+        icon: custom/gb
       - name: Dutch
         description: Native Speaker
         percent: 100
-        icon: flag-nl
+        icon: custom/nl
       - name: Russian
         description: Native speaker
         percent: 100
-        icon: flag-ru
+        icon: custom/ru
       - name: Dutch
         description: Conversational
         percent: 50
-        icon: flag-de
+        icon: custom/de
 
 
 awards:

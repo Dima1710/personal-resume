@@ -21,7 +21,7 @@ role: Pianist & Aspiring IT and Cybersecurity Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ‎
+  - name:
     url: ''
 
 # Social network links
@@ -68,7 +68,7 @@ work:
       - Leveraged cold outreach and partnerships to grow the customer base, ultimately providing hosting services to a variety of small to mid-sized clients.
 
 skills:
-  - name: Technical Skills
+  - name: Technical
     items:
       - name: Linux Systems Administration
         description: Proficient in managing Ubuntu servers and troubleshooting system issues.
@@ -86,7 +86,7 @@ skills:
         description: Developed automation workflows using Python and integration tools.
         percent: 65
         icon: devicon/python
-  - name: Low-Code/No-Code Development
+  - name: Development
     items:
       - name: AI Workflow Automation
         description: Built workflows and chatbots using platforms such as Voiceflow, Botpress, and Make.com.
@@ -98,7 +98,7 @@ skills:
         icon: devicon/markdown
   - name: Customer Support & Problem Solving
     items:
-      - name: Technical Support
+      - name: Support
         description: Delivered troubleshooting and problem-solving for server and cloud issues.
         percent: 85
         icon: devicon/bash
@@ -110,7 +110,7 @@ skills:
         description: Diagnosed and resolved technical issues across diverse IT environments.
         percent: 85
         icon: devicon/terminal
-  - name: Music & Academic Skills
+  - name: Music Skills
     items:
       - name: Piano Performance
         description: Over 10 years of experience, including private lessons and public performances.
@@ -141,14 +141,11 @@ skills:
         description: Native speaker
         percent: 100
         icon: flag-ru
+      - name: Dutch
+        description: Conversational
+        percent: 50
+        icon: flag-de
 
-languages:
-  - name: English
-    percent: 100
-  - name: Dutch
-    percent: 100
-  - name: Russian
-    percent: 100
 
 awards:
   - title: Hosting Project Exit

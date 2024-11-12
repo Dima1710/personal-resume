@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "6rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       banner:
@@ -41,8 +41,5 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+
 ---

@@ -38,6 +38,11 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+      sections:
+  - block: languages
+    content:
+      title: Languages
+      username: admin
   - block: awards
     content:
       title: Awards

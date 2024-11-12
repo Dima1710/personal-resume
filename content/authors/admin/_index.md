@@ -21,7 +21,7 @@ role: Pianist & Aspiring IT and Cybersecurity Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Entrepeneur
+  - name: 
     url: ''
 
 # Social network links
@@ -71,80 +71,80 @@ skills:
   - name: Technical
     items:
       - name: Linux Administration
-        description: 
+        description: Proficient in managing Ubuntu servers and troubleshooting system issues.
         percent: 80
         icon: devicon/linux
       - name: Cloud Computing
-        description: 
+        description: Experience in hosting, VPS reselling, and virtualized environments.
         percent: 75
         icon: devicon/googlecloud
       - name: Domain & Email Setup
-        description: 
+        description: Skilled in configuring domains, DNS records, Google Workspace, and SMTP servers.
         percent: 70
         icon: devicon/google
   - name: Development
     items:
       - name: AI Automation
-        description: 
+        description: Built workflows and chatbots using platforms such as Voiceflow, Botpress, and Make.com.
         percent: 70
         icon: devicon/tensorflow
       - name: Prompt Engineering
-        description: 
+        description: Designed custom prompts to enhance AI applications and automate workflows.
         percent: 65
         icon: devicon/markdown
       - name: Scripting & Automation
-        description: 
+        description: Developed automation workflows using Python and integration tools.
         percent: 65
         icon: devicon/python
   - name: Support
     items:
       - name: Support
-        description: 
+        description: Delivered troubleshooting and problem-solving for server and cloud issues.
         percent: 85
         icon: devicon/bash
       - name: Email Marketing
-        description: 
+        description: Executed cold outreach campaigns and developed client acquisition strategies.
         percent: 75
         icon: hero/inbox
       - name: Troubleshooting
-        description: 
+        description: Diagnosed and resolved technical issues across diverse IT environments.
         percent: 85
         icon: hero/wrench
   - name: Music Skills
     items:
       - name: Piano Performance
-        description: 
+        description: Over 10 years of experience, including private lessons and public performances.
         percent: 90
         icon: hero/musical-note
       - name: Music Theory & Analysis
-        description: 
+        description: Advanced understanding of theoretical and analytical music concepts.
         percent: 85
         icon: hero/document-text
       - name: Prima Vista (Sight Reading)
-        description: 
+        description: Highly skilled at sight-reading complex musical compositions.
         percent: 80
         icon: hero/eye
 
-  - name: Languages
-    color: '#ffcc00'
-    color_border: '#ffaa00'
-    items:
-      - name: English
-        description: Fluent
-        percent: 95
-        icon: custom/gb
-      - name: Dutch
-        description: Native Speaker
-        percent: 100
-        icon: custom/nl
-      - name: Russian
-        description: Native speaker
-        percent: 100
-        icon: custom/ru
-      - name: Dutch
-        description: Conversational
-        percent: 50
-        icon: custom/de
+languages:
+  title: Languages
+  items:
+    - name: English
+      description: Fluent
+      percent: 95
+      icon: custom/gb  # Replace with the proper icon reference
+    - name: Dutch
+      description: Native Speaker
+      percent: 100
+      icon: custom/nl
+    - name: Russian
+      description: Native Speaker
+      percent: 100
+      icon: custom/ru
+    - name: German
+      description: Conversational
+      percent: 50
+      icon: custom/de
+
 
 
 awards:

@@ -1,172 +1,130 @@
 ---
 # Display name
-title: 吳健雄
+title: Dmitry
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dmit-ree
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dmitry
+last_name: Reijs
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌐
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Aspiring IT & Cybersecurity Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: DarkHosting
+    url: ''
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dh.reijs@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Dima1710
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/dmitry-reijs/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: HAVO Diploma
+    institution: School for Young Talent at the Royal Conservatory, The Hague
+    date_start: 2019-09-01
+    date_end: 2024-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      A double-education program combining rigorous high school academics with intensive musical training. Curriculum included liberal arts, music theory, history, private piano lessons, and choir, alongside exposure to other disciplines such as ballet and visual arts.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Founder & Owner
+    company_name: Up Level Agency
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-11-01
+    date_end: 2023-11-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developed innovative AI solutions for businesses, including custom chatbots and automated workflows using platforms like Voiceflow and Botpress.
+      - Integrated external APIs, built knowledge bases, and automated processes with Python scripts.
+      - Conducted cold outreach via email marketing, resulting in multiple client meetings and a successful website project.
+      - Expanded hands-on knowledge in AI and automation applied to real-world scenarios.
+  - position: Founder & Owner
+    company_name: DarkHosting
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2020-08-01
+    date_end: 2022-10-01
+    summary: |2-
+      - Provided hosting services for gaming and web platforms like FiveM and Minecraft.
+      - Configured and maintained Linux servers (specializing in Ubuntu), utilizing WHMCS and Pterodactyl for automation and management.
+      - Managed customer support, resolved technical issues, and optimized server performance.
+      - Automated client onboarding and streamlined data migration processes using SFTP tools and custom scripts.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: Linux Systems Administration
+        description: Experienced in managing Ubuntu servers and troubleshooting.
+        percent: 75
+        icon: devicon/linux
+      - name: Cloud Computing
+        description: Hands-on experience in cloud hosting and virtual environments.
+        percent: 70
+        icon: devicon/googlecloud
       - name: Python
-        description: ''
-        percent: 80
+        description: Basic automation and integration tasks.
+        percent: 50
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: AI Automation
+        description: Workflow and chatbot development.
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: devicon/tensorflow
+  - name: Languages
+    color: '#ffcc00'
+    color_border: '#ffaa00'
+    items:
+      - name: English
+        description: Fluent
+        percent: 95
+        icon: flag-gb
+      - name: Dutch
+        description: Professional proficiency
         percent: 80
-        icon: camera
+        icon: flag-nl
+      - name: Russian
+        description: Native speaker
+        percent: 100
+        icon: flag-ru
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Dutch
+    percent: 100
+  - name: Russian
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Hosting Project Exit
+    awarder: Self-Founded Business
+    date: '2022-10-01'
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Successfully sold DarkHosting project to a trusted partner after two years of building and managing the hosting service.
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+certifications:
+  - name: Google Cybersecurity Professional Certificate
+    status: In Progress
+    description: |
+      Covers essential topics such as SIEM tools, security operations automation, and cyber risk management.
+projects:
+  - name: DarkHosting
+    description: |
+      Built and managed a hosting service specializing in game servers and cloud solutions, offering automated tools and exceptional support to clients.
+  - name: Up Level Agency
+    description: |
+      Developed AI solutions like custom chatbots and workflow automations for businesses, with a focus on innovation and client satisfaction.
+---

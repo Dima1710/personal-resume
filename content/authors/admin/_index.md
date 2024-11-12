@@ -131,7 +131,7 @@ languages:
     - name: English
       description: Fluent
       percent: 95
-      icon: custom/gb  # Replace with the proper icon reference
+      icon: custom/gb  # Use your flag or icon reference here
     - name: Dutch
       description: Native Speaker
       percent: 100
@@ -144,8 +144,6 @@ languages:
       description: Conversational
       percent: 50
       icon: custom/de
-
-
 
 awards:
   - title: Hosting Project Exit

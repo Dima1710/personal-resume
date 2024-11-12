@@ -71,57 +71,57 @@ skills:
   - name: Technical
     items:
       - name: Linux Administration
-        description: Proficient in managing Ubuntu servers and troubleshooting system issues.
+        description: Proficient in managing Ubuntu servers and troubleshooting.
         percent: 80
         icon: devicon/linux
       - name: Cloud Computing
-        description: Experience in hosting, VPS reselling, and virtualized environments.
+        description: Skilled in hosting, VPS reselling, and virtualized setups.
         percent: 75
         icon: devicon/googlecloud
       - name: Domain & Email Setup
-        description: Skilled in configuring domains, DNS records, Google Workspace, and SMTP servers.
+        description: Expertise in DNS, Google Workspace, and SMTP.
         percent: 70
         icon: devicon/google
   - name: Development
     items:
       - name: AI Automation
-        description: Built workflows and chatbots using platforms such as Voiceflow, Botpress, and Make.com.
+        description: Built workflows and chatbots using low-code tools.
         percent: 70
         icon: devicon/tensorflow
       - name: Prompt Engineering
-        description: Designed custom prompts to enhance AI applications and automate workflows.
+        description: Created custom prompts for AI solutions.
         percent: 65
         icon: devicon/markdown
       - name: Scripting & Automation
-        description: Developed automation workflows using Python and integration tools.
+        description: Automated tasks with Python and APIs.
         percent: 65
         icon: devicon/python
   - name: Support
     items:
       - name: Support
-        description: Delivered troubleshooting and problem-solving for server and cloud issues.
+        description: Solved technical issues for server and cloud systems.
         percent: 85
         icon: devicon/bash
       - name: Email Marketing
-        description: Executed cold outreach campaigns and developed client acquisition strategies.
+        description: Managed campaigns and client outreach.
         percent: 75
         icon: hero/inbox
       - name: Troubleshooting
-        description: Diagnosed and resolved technical issues across diverse IT environments.
+        description: Resolved diverse IT issues efficiently.
         percent: 85
         icon: hero/wrench
   - name: Music Skills
     items:
       - name: Piano Performance
-        description: Over 10 years of experience, including private lessons and public performances.
+        description: 10+ years of lessons and public performances.
         percent: 90
         icon: hero/musical-note
-      - name: Music Theory & Analysis
-        description: Advanced understanding of theoretical and analytical music concepts.
+      - name: Music Analysis
+        description: Strong grasp of music theory and analysis.
         percent: 85
         icon: hero/document-text
-      - name: Prima Vista (Sight Reading)
-        description: Highly skilled at sight-reading complex musical compositions.
+      - name: Sight Reading
+        description: Skilled in reading and playing complex pieces.
         percent: 80
         icon: hero/eye
 

@@ -75,7 +75,7 @@ skills:
         percent: 80
         icon: devicon/linux
       - name: Cloud Computing
-        description: Skilled in hosting, VPS reselling, and virtualized setups.
+        description: Skilled in hosting and virtualisation.
         percent: 75
         icon: devicon/googlecloud
       - name: Domain & Email Setup
@@ -96,20 +96,6 @@ skills:
         description: Automated tasks with Python and APIs.
         percent: 65
         icon: devicon/python
-  - name: Support
-    items:
-      - name: Support
-        description: Solved technical issues for server and cloud systems.
-        percent: 85
-        icon: devicon/bash
-      - name: Email Marketing
-        description: Managed campaigns and client outreach.
-        percent: 75
-        icon: hero/inbox
-      - name: Troubleshooting
-        description: Resolved diverse IT issues efficiently.
-        percent: 85
-        icon: hero/wrench
   - name: Music Skills
     items:
       - name: Piano Performance

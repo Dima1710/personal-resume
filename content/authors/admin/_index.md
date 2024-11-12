@@ -127,6 +127,7 @@ skills:
 
 languages:
   title: Languages
+  items:
     - name: English
       percent: 95
     - name: Dutch
@@ -135,6 +136,7 @@ languages:
       percent: 100
     - name: German
       percent: 50
+
 
 awards:
   - title: Hosting Project Exit

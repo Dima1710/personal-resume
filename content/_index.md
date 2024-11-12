@@ -43,4 +43,8 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: languages
+    content:
+      title: Languages
+      username: admin
 ---

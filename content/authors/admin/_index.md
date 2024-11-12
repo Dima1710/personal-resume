@@ -125,6 +125,16 @@ skills:
         percent: 80
         icon: hero/eye
 
+languages:
+  - name: English
+    percent: 100
+  - name: Russian
+    percent: 100
+  - name: Dutch
+    percent: 100
+  - name: German
+    percent: 50
+
 awards:
   - title: Hosting Project Exit
     awarder: Self-Founded Business

@@ -3,7 +3,7 @@
 title: Dmitry
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Дмитрий
 
 # Full name (for SEO)
 first_name: Dmitry
@@ -59,13 +59,13 @@ work:
     date_start: 2020-08-01
     date_end: 2022-10-01
     summary: |2-
-- Founded and operated an online hosting service that provided game and web hosting solutions for FiveM, Minecraft, and other platforms.
-- Managed the full lifecycle of the business, including server setup, VPS reselling, automation, customer support, and client onboarding.
-- Configured and maintained Linux servers, specializing in Ubuntu, utilizing WHMCS and Pterodactyl for automated billing and server management.
-- Provided hands-on troubleshooting and technical support to clients, resolving issues related to server downtime, configuration errors, and performance optimization.
-- Handled the migration of client data between hosting providers, utilizing SFTP and other automation tools to streamline processes.
-- Developed and implemented custom automations, scripts, and bots to improve service efficiency and reduce manual workloads.
-- Leveraged cold outreach and partnerships to grow the customer base, ultimately providing hosting services to a variety of small to mid-sized clients.
+      - Founded and operated an online hosting service that provided game and web hosting solutions for FiveM, Minecraft, and other platforms.
+      - Managed the full lifecycle of the business, including server setup, VPS reselling, automation, customer support, and client onboarding.
+      - Configured and maintained Linux servers, specializing in Ubuntu, utilizing WHMCS and Pterodactyl for automated billing and server management.
+      - Provided hands-on troubleshooting and technical support to clients, resolving issues related to server downtime, configuration errors, and performance optimization.
+      - Handled the migration of client data between hosting providers, utilizing SFTP and other automation tools to streamline processes.
+      - Developed and implemented custom automations, scripts, and bots to improve service efficiency and reduce manual workloads.
+      - Leveraged cold outreach and partnerships to grow the customer base, ultimately providing hosting services to a variety of small to mid-sized clients.
 
 skills:
   - name: Technical Skills

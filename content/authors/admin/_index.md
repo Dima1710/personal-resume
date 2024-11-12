@@ -129,16 +129,12 @@ languages:
   title: Languages
   items:
     - name: English
-      description: Fluent
       percent: 95
     - name: Dutch
-      description: Native Speaker
       percent: 100
     - name: Russian
-      description: Native Speaker
       percent: 100
     - name: German
-      description: Conversational
       percent: 50
 
 awards:

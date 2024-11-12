@@ -3,7 +3,7 @@
 title: Dmitry
 
 # Name pronunciation (optional)
-name_pronunciation: Дмитрий
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Dmitry

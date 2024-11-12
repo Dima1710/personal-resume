@@ -127,7 +127,6 @@ skills:
 
 languages:
   title: Languages
-  items:
     - name: English
       percent: 95
     - name: Dutch

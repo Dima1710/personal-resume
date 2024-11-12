@@ -131,19 +131,15 @@ languages:
     - name: English
       description: Fluent
       percent: 95
-      icon: custom/gb  # Use your flag or icon reference here
     - name: Dutch
       description: Native Speaker
       percent: 100
-      icon: custom/nl
     - name: Russian
       description: Native Speaker
       percent: 100
-      icon: custom/ru
     - name: German
       description: Conversational
       percent: 50
-      icon: custom/de
 
 awards:
   - title: Hosting Project Exit

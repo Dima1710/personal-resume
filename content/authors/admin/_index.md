@@ -21,7 +21,7 @@ role: Pianist & Aspiring IT and Cybersecurity Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: ‎
     url: ''
 
 # Social network links
@@ -71,47 +71,59 @@ skills:
   - name: Technical Skills
     items:
       - name: Linux Systems Administration
-        description: Experienced in managing Ubuntu servers and resolving system issues.
+        description: Proficient in managing Ubuntu servers and troubleshooting system issues.
         percent: 80
         icon: devicon/linux
       - name: Cloud Computing
-        description: Practical experience with hosting, VPS reselling, and virtual environments.
+        description: Experience in hosting, VPS reselling, and virtualized environments.
         percent: 75
         icon: devicon/googlecloud
-      - name: Python
-        description: Automation, scripting, and API integration tasks.
-        percent: 25
-        icon: devicon/python
-      - name: AI & Workflow Automation
-        description: Chatbot development and process automation using platforms like Voiceflow and Botpress.
+      - name: Domain & Email Setup
+        description: Skilled in configuring domains, DNS records, Google Workspace, and SMTP servers.
+        percent: 70
+        icon: devicon/google
+      - name: Scripting & Automation
+        description: Developed automation workflows using Python and integration tools.
         percent: 65
-        icon: devicon/tensorflow
-      - name: Troubleshooting & Problem Solving
-        description: Strong diagnostic skills for resolving technical issues across server and cloud environments.
-        percent: 80
-        icon: devicon/bash
-      - name: WHMCS & Pterodactyl Administration
-        description: Billing, server management, and custom panel configuration.
-        percent: 75
-        icon: devicon/apache
-      - name: Scripting
-        description: Installing and editing scripts for server and hosting panel automation.
-        percent: 60
-        icon: devicon/javascript
-  - name: Customer & Business Skills
+        icon: devicon/python
+  - name: Low-Code/No-Code Development
     items:
-      - name: Customer Support
-        description: Experience handling client technical support and onboarding.
+      - name: AI Workflow Automation
+        description: Built workflows and chatbots using platforms such as Voiceflow, Botpress, and Make.com.
+        percent: 70
+        icon: devicon/tensorflow
+      - name: Prompt Engineering
+        description: Designed custom prompts to enhance AI applications and automate workflows.
+        percent: 65
+        icon: devicon/markdown
+  - name: Customer Support & Problem Solving
+    items:
+      - name: Technical Support
+        description: Delivered troubleshooting and problem-solving for server and cloud issues.
+        percent: 85
+        icon: devicon/bash
+      - name: Email Marketing & Outreach
+        description: Executed cold outreach campaigns and developed client acquisition strategies.
+        percent: 75
+        icon: devicon/marketing
+      - name: Troubleshooting & Problem Solving
+        description: Diagnosed and resolved technical issues across diverse IT environments.
+        percent: 85
+        icon: devicon/terminal
+  - name: Music & Academic Skills
+    items:
+      - name: Piano Performance
+        description: Over 10 years of experience, including private lessons and public performances.
+        percent: 90
+        icon: music
+      - name: Music Theory & Analysis
+        description: Advanced understanding of theoretical and analytical music concepts.
+        percent: 85
+        icon: theory
+      - name: Prima Vista (Sight Reading)
+        description: Highly skilled at sight-reading complex musical compositions.
         percent: 80
-        icon: devicon/wordpress
-      - name: Cold Outreach & Sales
-        description: Building client relationships through strategic outreach and partnerships.
-        percent: 70
-        icon: devicon/salesforce
-      - name: IT Security Awareness
-        description: Practical knowledge of VPNs, privacy tools, and secure system practices.
-        percent: 70
-        icon: devicon/security
+        icon: eye
 
   - name: Languages
     color: '#ffcc00'

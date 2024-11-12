@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "5rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -24,7 +24,7 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.8em; margin-bottom: 20px;'
   - block: experience
     content:
       username: admin

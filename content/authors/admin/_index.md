@@ -82,10 +82,6 @@ skills:
         description: Skilled in configuring domains, DNS records, Google Workspace, and SMTP servers.
         percent: 70
         icon: devicon/google
-      - name: Scripting & Automation
-        description: Developed automation workflows using Python and integration tools.
-        percent: 65
-        icon: devicon/python
   - name: Development
     items:
       - name: AI Workflow Automation
@@ -96,6 +92,10 @@ skills:
         description: Designed custom prompts to enhance AI applications and automate workflows.
         percent: 65
         icon: devicon/markdown
+      - name: Scripting & Automation
+        description: Developed automation workflows using Python and integration tools.
+        percent: 65
+        icon: devicon/python
   - name: Customer Support & Problem Solving
     items:
       - name: Support
@@ -105,25 +105,25 @@ skills:
       - name: Email Marketing & Outreach
         description: Executed cold outreach campaigns and developed client acquisition strategies.
         percent: 75
-        icon: devicon/marketing
+        icon: hero/mail
       - name: Troubleshooting & Problem Solving
         description: Diagnosed and resolved technical issues across diverse IT environments.
         percent: 85
-        icon: devicon/terminal
+        icon: hero/wrench
   - name: Music Skills
     items:
       - name: Piano Performance
         description: Over 10 years of experience, including private lessons and public performances.
         percent: 90
-        icon: music
+        icon: hero/music-note
       - name: Music Theory & Analysis
         description: Advanced understanding of theoretical and analytical music concepts.
         percent: 85
-        icon: theory
+        icon: hero/document-text
       - name: Prima Vista (Sight Reading)
         description: Highly skilled at sight-reading complex musical compositions.
         percent: 80
-        icon: eye
+        icon: hero/eye
 
   - name: Languages
     color: '#ffcc00'

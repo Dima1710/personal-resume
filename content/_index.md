@@ -40,7 +40,7 @@ sections:
       sections:
   - block: awards
     content:
-      title: Achievements
+      title: Accomplishments
       username: admin
   - block: languages
     content:

@@ -128,6 +128,19 @@ awards:
     summary: |
       Successfully sold DarkHosting project to a trusted partner after two years of building and managing the hosting service.
 
+  - title: Advanced Crypto Trading Automation
+    awarder: Self-Initiated Project
+    date: '2023-12-01'
+    summary: |
+      Leveraged and fine-tuned existing crypto bots with custom settings to optimize trading strategies, enabling efficient coin-sniping and maximizing profits during volatile market conditions.
+
+  - title: Solana Node Operation
+    awarder: Self-Initiated Project
+    date: '2024-02-01'
+    summary: |
+      Configured and operated a Solana RPC node to optimize transaction speeds, allowing faster transaction processing and improved profitability in decentralized trading.
+
+
 certifications:
   - name: Google Cybersecurity Professional Certificate
     status: In Progress

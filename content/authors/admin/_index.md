@@ -40,7 +40,7 @@ education:
     date_start: 2015-09-01
     date_end: 2024-07-12
     summary: |
-      A double-education program combining rigorous high school academics with intensive musical training. Curriculum included liberal arts, music theory, history, private piano lessons, and choir, alongside exposure to other disciplines such as ballet and visual arts.
+      A high school program with a strong focus on musical education, combining private piano lessons, in-depth training in music theory and history, and participation in choir, designed to develop advanced musicianship alongside academic studies.
 
 work:
   - position: Founder & Owner

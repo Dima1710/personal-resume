@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Dmitry Reijs Resume # Website name
+title: Dmitry Reijs # Website name
 baseURL: 'https://dmitryreijs.github.io/' # Website URL
 
 ############################

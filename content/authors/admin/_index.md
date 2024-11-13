@@ -142,4 +142,4 @@ projects:
       Developed AI solutions like custom chatbots and workflow automations for businesses, with a focus on innovation and client satisfaction.
 ---
 
-An aspiring IT professional with a background in hosting, cloud environments, and automation, driven by a passion for solving technical challenges and continuous learning.
+An 18-year-old pianist and IT enthusiast on a journey to expand my skills in cloud automation and problem-solving, with a strong drive to learn and take on new challenges.
